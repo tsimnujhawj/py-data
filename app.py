@@ -9,3 +9,5 @@ df = pd.read_csv(file)
 print("October Average\n", df.loc[1:31].mean())
 print("\n")
 print("November Average\n", df.loc[32:].mean())
+
+# who used the most and the least?
