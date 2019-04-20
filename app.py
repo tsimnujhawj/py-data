@@ -11,3 +11,5 @@ print("\n")
 print("November Average\n", df.loc[32:].mean())
 
 # who used the most and the least?
+
+#most gigs used
