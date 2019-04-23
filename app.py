@@ -15,3 +15,5 @@ print("November Average\n", df.loc[32:].mean())
 # most gigs used
 
 # TODO define df.loc[]
+
+# TODO parse through df.loc
