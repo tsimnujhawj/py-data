@@ -17,3 +17,5 @@ print("November Average\n", df.loc[32:].mean())
 # TODO define df.loc[]
 
 # TODO parse through df.loc
+
+# use google data
