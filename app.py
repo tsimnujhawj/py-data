@@ -13,9 +13,3 @@ print("November Average\n", df.loc[32:].mean())
 # who used the most and the least?
 
 # most gigs used
-
-# TODO define df.loc[]
-
-# TODO parse through df.loc
-
-# use google data
